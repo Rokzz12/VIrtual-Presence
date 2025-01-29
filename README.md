@@ -1,4 +1,4 @@
-# AR Experience
+# Virtual Presence
 
 An interactive web-based Augmented Reality application that allows users to project screen shares and images onto AR markers in real-time.
 
