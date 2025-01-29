@@ -38,8 +38,8 @@ An interactive web-based Augmented Reality application that allows users to proj
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd ar-experience
+git clone https://github.com/Rokzz12/VIrtual-Presence
+cd Virtual-Presence
 ```
 
 2. Set up the local development server:
@@ -97,12 +97,10 @@ headers: {
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👥 Development Team
+## 👥 Development Duo
 
 - Nagaraju P
 - Nandan M N
-- Amith H Nithyundil
-- Akash Ravindra Nilkund
 
 Under the guidance of:
 Mr. DEEPAK P
@@ -126,10 +124,6 @@ NIEIT, Mysore
    - Use compatible browser
    - Grant screen sharing permissions
    - Try sharing specific window instead of entire screen
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🔮 Future Enhancements
 
